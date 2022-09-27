@@ -1,0 +1,20 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitacao de app BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Clecio Guga",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Prjeto de Testes de Aceitacao do App bugerEats"
+  }
+}
